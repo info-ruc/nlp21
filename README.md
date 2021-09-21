@@ -7,3 +7,7 @@
 
 #2 Automata [slide](https://info-ruc.github.io/nlp21/automata.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp21/auto.pl)
+
+#3 Parser [slide](https://info-ruc.github.io/nlp21/parser.pdf) 
+| [Source Code](https://info-ruc.github.io/nlp21/parser.pl)
+
