@@ -13,3 +13,8 @@
 
 #4 DCG [slide](https://info-ruc.github.io/nlp21/dcg.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp21/dcg.zip)
+
+#5 Language Model [slide](https://info-ruc.github.io/nlp21/lanmod21.pdf) 
+
+
+
