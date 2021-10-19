@@ -16,5 +16,6 @@
 
 #5 Language Model [slide](https://info-ruc.github.io/nlp21/lanmod21.pdf) 
 
+#6 Word Embedding [slide](https://info-ruc.github.io/nlp21/embedding.pdf) 
 
 
