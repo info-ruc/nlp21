@@ -18,4 +18,5 @@
 
 #6 Word Embedding [slide](https://info-ruc.github.io/nlp21/embedding.pdf) 
 
-
+#7 Text Models [slide](https://info-ruc.github.io/nlp21/textmodel.pdf) 
+| [Source Code](https://info-ruc.github.io/nlp21/textmodel.zip)
