@@ -24,5 +24,5 @@
 #8 More on LDA [slide](https://info-ruc.github.io/nlp21/morelda.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp21/morelda.zip)
 
-#8 Convolutional Neural Networks [slide](https://info-ruc.github.io/nlp21/dl-cnn.pdf) 
+#9 Convolutional Neural Networks [slide](https://info-ruc.github.io/nlp21/dl-cnn.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp21/cnn.zip)
