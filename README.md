@@ -26,3 +26,6 @@
 
 #9 Convolutional Neural Networks [slide](https://info-ruc.github.io/nlp21/dl-cnn.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp21/cnn.zip)
+
+#10 RNN(LSTM) [slide](https://info-ruc.github.io/nlp21/dl-lstm.pdf) 
+| [Source Code](https://info-ruc.github.io/nlp21/lstm.zip)
