@@ -33,5 +33,8 @@
 #11 AutoEncoder [slide](https://info-ruc.github.io/nlp21/dl-ae.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp21/ae.zip)
 
-#12 GAN-I [slide](https://info-ruc.github.io/nlp20/dl-gan.pdf) 
+#12 GAN-I [slide](https://info-ruc.github.io/nlp21/dl-gan.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp20/gan.zip)
+
+#13 GAN-II [slide](https://info-ruc.github.io/nlp21/dl-gan2.pdf) 
+| [Source Code](https://www.mathworks.com/help/deeplearning/ug/trainwasserstein-gan-with-gradient-penalty-wgan-gp.html)
